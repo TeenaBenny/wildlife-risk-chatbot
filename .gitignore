@@ -1,0 +1,16 @@
+# Environment / API keys
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# ChromaDB
+chroma_db/
+
+# Streamlit
+.streamlit/secrets.toml
